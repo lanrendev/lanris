@@ -24,7 +24,7 @@
     "url": "https://github.com/lanrendev/lanris/issues"
   },
   "homepage": "https://github.com/lanrendev/lanris#readme",
-  "devDependencies": {
+  "dependencies": {
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.0.0",
     "fis-optimizer-clean-css": "^0.0.12",
