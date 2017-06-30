@@ -1,0 +1,37 @@
+{
+  "name": "lanris",
+  "version": "0.0.1",
+  "description": "front-end integrated solution",
+  "main": "index.js",
+  "bin": {
+    "lanris": "bin/lanris"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanrendev/lanris.git"
+  },
+  "keywords": [
+    "lanris",
+    "build",
+    "framework"
+  ],
+  "author": "lanrenfed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lanrendev/lanris/issues"
+  },
+  "homepage": "https://github.com/lanrendev/lanris#readme",
+  "devDependencies": {
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0",
+    "fis3": "^3.4.33"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
