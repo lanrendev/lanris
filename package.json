@@ -1,6 +1,6 @@
 {
   "name": "lanris",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "front-end integrated solution",
   "main": "index.js",
   "bin": {
