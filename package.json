@@ -25,15 +25,16 @@
   },
   "homepage": "https://github.com/lanrendev/lanris#readme",
   "dependencies": {
-    "commitizen": "^2.9.6",
-    "cz-conventional-changelog": "^2.0.0",
     "fis-optimizer-clean-css": "^0.0.12",
     "fis-optimizer-png-compressor": "^0.1.6",
     "fis-optimizer-uglify-js": "^0.2.2",
     "fis3": "^3.4.33",
-    "fis3-hook-module": "^1.2.2",
     "liftoff": "^2.3.0",
     "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0"
   },
   "config": {
     "commitizen": {
